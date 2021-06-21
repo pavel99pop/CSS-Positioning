@@ -1,0 +1,24 @@
+.parent {
+  background-color: aqua;
+  padding: 5px;
+}
+
+.child {
+  padding: 5px;
+}
+
+.child-one {
+  background-color: blueviolet;
+}
+
+.child-two {
+  background-color: chartreuse;
+}
+
+.child-three {
+  background-color: deeppink;
+}
+
+/* div {
+  display: block;
+} */
