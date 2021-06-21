@@ -1,0 +1,29 @@
+.parent {
+  background-color: deeppink;
+  padding: 5px;
+  position: relative;
+  height: 200vh;
+}
+
+.child {
+  padding: 5px;
+}
+
+.child-one {
+  background-color: slateblue;
+  position: sticky;
+  top: 0;
+  right: 0;
+}
+
+.child-two {
+  background-color: chartreuse;
+}
+
+.child-three {
+  background-color: grey;
+}
+
+/* div { 
+  display: block;
+} */
